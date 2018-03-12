@@ -7,7 +7,7 @@ import React from 'react';
       <div>
       <div className="home">
         <h2>Welcome To My Gallery</h2>
-        <p>Click on any animal button or you can click on on the search button and do your own search</p>
+        <p>Click on any animal button or search a unique photo on the search button</p>
       </div>
 
 
