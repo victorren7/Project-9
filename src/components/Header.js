@@ -10,16 +10,16 @@ return(
 <ul >
 <li>
 
- <NavLink to="/Dogs">Cats</NavLink>
+ <NavLink to="/Dogs">Dogs</NavLink>
 </li>
  <li>
-<NavLink to="/Bears">Dogs</NavLink>
+<NavLink to="/Bears">Bears</NavLink>
 </li>
 <li>
-<NavLink to="/Elephants">Monkeys</NavLink>
+<NavLink to="/Elephants">Elephants</NavLink>
 </li>
 <li>
-<NavLink to="/Turtles">Elephants</NavLink>
+<NavLink to="/Turtles">Turtles</NavLink>
 </li>
 <li>
 <NavLink to="/Search">Search</NavLink>
